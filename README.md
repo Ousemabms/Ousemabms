@@ -38,20 +38,10 @@
 ---
 
 ## 📫 Contact
-- Email : `ton.email@exemple.com`
-- LinkedIn : `https://www.linkedin.com/in/tonprofil`
-- GitHub : `https://github.com/ton-username`
+- Email : `oussamabenmessoud95@gmail.com`
+- GitHub : `https://github.com/Ousemabms`
 
 ---
 
-## 💬 Message / Slogan
-> *"Construire des solutions utiles, efficaces et maintenables — toujours curieux d'apprendre et de collaborer."*
-
----
-
-## 🔭 Actuellement
-Je développe/maintiens : **[nom-du-projet]** — focus sur architecture modulaire, tests automatiques et pipeline CI/CD.
-
----
 
 Merci de passer sur mon profil — si tu veux collaborer ou juste dire bonjour, envoie-moi un message 👋
